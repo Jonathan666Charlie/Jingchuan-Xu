@@ -6,7 +6,7 @@ author:
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "Analyzing Marriage Licence Statistics data from Toronto using R and Quarto. It requires simulating data from a Poisson distribution, gathering real data from Open Data Toronto, and cleaning it using R scripts. A report with graphs and citations will be generated in Quarto, and the final document will include a title, author, and abstract. The workflow culminates in updating the README and submitting a Gist with GitHub links to repositories from the group."
 format: pdf
 number-sections: true
 bibliography: references.bib
